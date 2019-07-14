@@ -1,0 +1,49 @@
+#div_box{
+    border: 2px solid lightseagreen;
+    display: inline-block;
+    margin-left: 380px;
+    margin-top: 20px;
+    padding: 100px;
+    background-color: lightgray;
+}
+
+#div_box2{
+    margin-top: 40px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+#sp1{
+    text-align: center;
+}
+
+#h1{
+    font-weight: bold;
+    color: darkgoldenrod;
+    margin-top: 40px;
+
+}
+
+
+#inpu_id{
+    width: 300px;
+    height: 37px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 2px solid rgb(23, 162, 184);
+}
+
+#btn{
+    margin-left: 20px;
+}
+#btn3{
+    margin-left: 20px;
+
+}
+#btn_create{
+    margin-left: 20px;
+}
